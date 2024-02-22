@@ -20,6 +20,9 @@
     min-height: 40px; 
     background-color: #006cfa;   
 }
+[class*="col-"]{
+    flex: 0 0 auto;
+}
 
 /*------------
     COLONNE
