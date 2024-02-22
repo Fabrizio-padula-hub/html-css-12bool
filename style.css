@@ -1,8 +1,15 @@
 .container{
-    width: 1100px;
+    max-width: 1100px;
     margin: 0 auto;
     margin-top: 30px;
     text-align: center;
+}
+
+.row [class*="col-"]{
+    color: #fff;
+    border: 1px solid #fff;
+    min-height: 40px; 
+    background-color: #006cfa;   
 }
 
 .box{
