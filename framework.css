@@ -17,7 +17,8 @@
 .row [class*="col-"]{
     color: #fff;
     border: 1px solid #fff;
-    min-height: 40px;    
+    min-height: 40px; 
+    background-color: #006cfa;   
 }
 
 /*------------
